@@ -3,4 +3,5 @@ An analysis of popular (loosely-defined) data science questions posted on the po
 * the frequency of their use and views, 
 * pair-wise relationships between tags, and 
 * ratios of identified popular tags and the overall number of tagged questions.  
+
 The study concludes with a recommendation to increase deep learning content.
